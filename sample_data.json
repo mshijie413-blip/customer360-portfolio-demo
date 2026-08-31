@@ -1,0 +1,11 @@
+{
+  "taobao_orders": [
+    {"main_order_id": "900000000000000001", "taobao_nickname": "tb_demo_001", "paid_at": "2026-07-03", "amount_cents": 12900, "sku_ids": ["SKU-DEMO-100"]},
+    {"main_order_id": "900000000000000002", "taobao_nickname": "tb_demo_001", "paid_at": "2026-08-18", "amount_cents": 9900, "sku_ids": ["SKU-DEMO-100", "SKU-DEMO-200"]},
+    {"main_order_id": "900000000000000003", "taobao_nickname": "tb_demo_002", "paid_at": "2026-08-20", "amount_cents": 5900, "sku_ids": ["SKU-DEMO-300"]}
+  ],
+  "crm_orders": [
+    {"main_order_id": "900000000000000001", "wechat_id": "wx_demo_001", "wechat_nickname": "微信样例一", "group_nickname": "体验群一"},
+    {"main_order_id": "900000000000000002", "wechat_id": "wx_demo_001", "wechat_nickname": "微信样例一", "group_nickname": "体验群一"}
+  ]
+}
